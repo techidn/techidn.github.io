@@ -1,5 +1,5 @@
-name: Agusls
-title: Agusls
+name: Envangeline lily
+title: Envangeline lily
 description: Jekyll Blog - Test.
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
@@ -10,13 +10,13 @@ include:
   - _pages
 permalink: '/:title/'
 authors:
-  agusls:
-    name: Agusls
-    display_name: Agusls
-    email: wilgautama@gmail.com
+  envangelinelily:
+    name: Envangeline lily
+    display_name: Envangeline lily
+    email: Envangeline.lily@gmail.com
     twitter: ''
     description: "just me"
-    web: "https://agusls.github.io"
+    web: "https://envangelinelily.github.io"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
