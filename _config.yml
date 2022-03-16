@@ -11,13 +11,13 @@ include:
 permalink: '/:title/'
 authors:
   envangelinelily:
-    name: Envangeline lily
-    display_name: Envangeline lily
-    email: Envangeline.lily@gmail.com
+    name: Techidn
+    display_name: Techidn
+    email: krvsuite@gmail.com
     twitter: ''
     description: "just me"
-    web: "https://envangelinelily.github.io"
-    gravatar: 0397aa39d5259d69961beaf1155fa085    
+    web: "https://techidn.github.io"
+    gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
