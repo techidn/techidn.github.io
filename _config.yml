@@ -17,6 +17,7 @@ authors:
     twitter: ''
     description: "just me"
     web: "https://envangelinelily.github.io"
+    gravatar: bd412067540ada57ae1b427d5bd74d72
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
