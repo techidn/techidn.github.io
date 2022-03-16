@@ -1,7 +1,7 @@
 ---
 title: Empress Ki (기황후; 奇皇后; Gi Hwanghu) 
 layout: post
-author: envangelinelily
+author: techidn
 categories: Drama Korean
 image: assets/images/nonton-drakor-empress-ki-sub-indo-dan-sinopsisnya-kisah-wanita-korea-pertama-jadi-permaisuri-china.jpg
 featured: false

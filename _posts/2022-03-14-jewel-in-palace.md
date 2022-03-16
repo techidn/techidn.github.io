@@ -1,7 +1,7 @@
 ---
 title: Jewel in the Palace
 layout: post
-author: envangelinelily
+author: techidn
 categories: Drama Korean
 image: assets/images/A-Jewel-in-the-Palace-a-jewel-in-the-palace-24272196-1024-768.jpg
 featured: false

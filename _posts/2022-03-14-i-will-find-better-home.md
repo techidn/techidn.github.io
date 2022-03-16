@@ -1,7 +1,7 @@
 ---
 title: I Will Find You a Better Home (2020)
 layout: post
-author: envangelinelily
+author: techidn
 categories: Drama Mandarin
 image: assets/images/i-will-find-better-home.webp
 featured: false

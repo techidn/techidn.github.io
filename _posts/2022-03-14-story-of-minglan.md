@@ -1,7 +1,7 @@
 ---
 title: The Story of Ming Lan 
 layout: post
-author: envangelinelily
+author: techidn
 categories: Drama Mandarin
 image: assets/images/story-of-ming-lan8-1.jpg
 featured: false
