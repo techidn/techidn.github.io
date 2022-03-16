@@ -1,8 +1,8 @@
-name: Envangeline lily
-title: Envangeline lily
+name: Techidn
+title: Techidn
 description: Jekyll Blog - Test.
 logo: assets/images/logo.png
-favicon: assets/images/logo.png
+favicon: assets/images/liogo.png
 baseurl: ''
 google_analytics: ''
 disqus: agusls
@@ -10,11 +10,11 @@ include:
   - _pages
 permalink: '/:title/'
 authors:
-  envangelinelily:
+  techidn:
     name: Techidn
     display_name: Techidn
     email: krvsuite@gmail.com
-    twitter: ''
+    twitter: 'karinovcoid'
     description: "just me"
     web: "https://techidn.github.io"
     gravatar: 0397aa39d5259d69961beaf1155fa085
