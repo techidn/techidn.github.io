@@ -5,7 +5,7 @@ author: techidn
 categories: 
 - Text to speech
 image: assets/images/voice-spice-untuk-download-suara-robot.jpg
-featured: true
+featured: false
 ---
 
 Mencari tool untuk mengubah teks menjadi suara memang gampang gampang susah. Alasannya karena banyak Tool yang punya banyak fitur namun sayangnya berbayar. Sedangkan yang gratisan fiturnya dibatasi. Untuk Anda yang sedang mencari tool gratisan, berikut ini ada rekomendasi Tool gratisan yakni voice spice com.
