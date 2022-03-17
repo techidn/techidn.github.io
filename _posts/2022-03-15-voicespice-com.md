@@ -2,8 +2,7 @@
 title: Review Voice Spice Com, Perekam Suara Serbaguna
 layout: post
 author: techidn
-categories: 
-- Text to speech
+categories: Text to speech
 image: voice-spice-untuk-download-suara-robot.jpg
 featured: true
 ---
