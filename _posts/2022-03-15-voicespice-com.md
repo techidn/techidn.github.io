@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Text to speech
-image: assets/images/DongYiWholeMainCasts.jpg
+image: voice-spice-untuk-download-suara-robot.jpg
 featured: true
 ---
 
