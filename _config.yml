@@ -5,7 +5,7 @@ logo: assets/images/logo.png
 favicon: assets/images/liogo.png
 baseurl: ''
 google_analytics: ''
-disqus: agusls
+disqus: 
 include:
   - _pages
 permalink: '/:title/'
