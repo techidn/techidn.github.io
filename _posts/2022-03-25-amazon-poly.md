@@ -16,6 +16,7 @@ Dengan menggunakan situs AWS Amazon Polly, kamu tidak perlu membeli alat perekam
 
 Sekilas Tentang AWS Amazon Polly
 ======================
+
 AWA Amazon Polly merupakan layanan untuk mengubah teks menjadi suara yang terdengar lebih natural, suara yang dihasilkan tidak seperti robot yang terdengar kaku dan aneh, namun suara yang dihasilkan lebih mirip manusia.
 
 Dengan menggunakan situs aws.amazon.com/id/polly/ maka pengguna diberi kebebasan untuk mengatur hasil suara yang diinginkan, seperti kecepatan membaca, pelafalan, intonasi dan volume suara sehingga hasilnya enak didengar.
@@ -24,13 +25,14 @@ Layanan text to speech ini sangat cocok digunakan untuk membantu membuat video p
 
 Fitur AWS Amazon Polly
 =====================
+
 Untuk membantu kamu membuat audio berkualitas, situs AWS Amazon Polly dilengkapi fitur menarik, yang bisa digunakan untuk memudahkan membuat suara natural. Adapun fitur-fitur Amazon Polly text to speech sebagai berikut:
 
 1. Pilihan Suara dan Bahasa
 
 Situs Amazon Polly menyediakan banyak pilihan suara dan bahasa, terdiri dari suara pria maupun wanita yang terdengar alami dan memiliki karakter yang unik, hal ini membantu kamu membuat suara berdasarkan bahasa yang diinginkan.
 
-2. Menyesuaikan Suara 
+2. Menyesuaikan Suara
 
 Kamu bisa dengan mudah mengatur gaya bicara, kecepatan bicara, menyesuaikan nada suara dan volume yang diinginkan, hal ini berkat adanya dukungan Speech Synthesis Markup Language (SSML) pada Amazon Polly ini.
 
@@ -40,6 +42,7 @@ Untuk mengoptimalkan hasil suara agar terdengar lebih jelas, kamu bisa memilih b
 
 Kelebihan AWS Amazon Polly
 =================
+
 Ada beberapa kelebihan AWS Amazon Polly dibandingkan situs text to speech lainnya, situs aws.amazon.com/id/polly/ tidak hanya sekedar mengubah teks menjadi suara saja. Adapun kelebihan situs AWS Amazon Polly sebagai berikut:
 
 1. Suara Terdengar Alami
