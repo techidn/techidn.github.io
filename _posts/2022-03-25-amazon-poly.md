@@ -5,7 +5,7 @@ author: techidn
 categories: 
 - Text to speech
 image: assets/images/aws_amazon_poly.jpg
-featured: true
+featured: false
 ---
 
 Saat ini ada banyak situs untuk membuat teks jadi suara atau dikenal dengan istilah text to speech, ada salah satu situs yang harus kamu coba untuk membuat suara unik dan keren yaitu melalui aws.amazon.com/id/polly/ 
