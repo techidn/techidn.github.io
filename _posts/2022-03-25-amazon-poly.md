@@ -1,5 +1,5 @@
 ---
-title: Amazon Poly Text to Speech: Fitur serta Kelebihannya
+title: Amazon Poly Text to Speech, Fitur serta Kelebihannya
 layout: post
 author: techidn
 categories: 
