@@ -1,8 +1,8 @@
 name: Tech Portal Indonesia
 title: Tech Portal Indonesia
 description: Latest tech issues and tutorials
-logo: assets/images/logo.png
-favicon: assets/images/logo.png
+logo: assets/images/techlogo.png
+favicon: assets/images/techlogo.png
 baseurl: ''
 google_analytics: ''
 include:
