@@ -5,7 +5,7 @@ author: techidn
 categories: 
 - Text to speech
 image: assets/images/balabolka.jpg
-featured: true
+featured: false
 ---
 
 Kepopuleran teknologi text to speech tidak lepas dari manfaat dan fungsinya yang sangat membantu para kreator, seperti salah satunya situs www.cross-plus-a.com/balabolka.htm yang bisa mengubah teks menjadi suara secara gratis.
