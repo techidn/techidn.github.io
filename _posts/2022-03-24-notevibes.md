@@ -15,7 +15,7 @@ Oleh sebab itu, banyak kreator menggunakan teknologi text to speech atau sound o
 
 ## Kenapa Harus Menggunakan Notevibes?
 
-Pemanfaatan teknologi sound of text memang tidak lepas dari fitur yang ditawarkannya, kamu bisa membuat teks menjadi suara dengan nada dan intonasi yang terdengar natural. Untuk lebih mengenal teknologi ubah teks jadi suara, kamu bisa juga membaca artikel (Google cloud text to speech)[https://blogs.itb.ac.id/tech/google-cloud-text-to-speech/] dari ITB berikut ini.
+Pemanfaatan teknologi sound of text memang tidak lepas dari fitur yang ditawarkannya, kamu bisa membuat teks menjadi suara dengan nada dan intonasi yang terdengar natural. Untuk lebih mengenal teknologi ubah teks jadi suara, kamu bisa juga membaca artikel [Google cloud text to speech](https://blogs.itb.ac.id/tech/google-cloud-text-to-speech/) dari ITB berikut ini.
 
 Begitu halnya dengan Notevibes.com dilengkapi fitur yang sangat dibutuhkan kreator untuk membuat suara narasi, tidak hanya terdengar natural namun hasil suara bisa di edit sesuai dengan keinginan.
 
