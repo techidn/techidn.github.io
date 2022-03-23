@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: Aplikasi
 image: assets/images/notevibes.jpg
-featured: true
+featured: false
 ---
 
 Notevibes.com menawarkan kemudahan bagi kreator untuk membuat teks menjadi suara terdengar alami. Jadi, tidak perlu repot harus merekam suara secara manual untuk mengisi narasi di konten video TikTok atau YouTube.
