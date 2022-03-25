@@ -2,7 +2,8 @@
 title: Ukuran Watermark Youtube yang Ideal
 layout: post
 author: techidn
-categories: YouTube
+categories: Tutorial
+tags: YouTube
 image: assets/images/youtube_wm.jpg
 featured: false
 ---
