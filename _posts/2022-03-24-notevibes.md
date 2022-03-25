@@ -2,7 +2,8 @@
 title: Notevibes Text to Speech dengan Suara Natural Buatan
 layout: post
 author: techidn
-categories: Aplikasi
+categories: 
+- Text to speech
 image: assets/images/notevibes.jpg
 featured: false
 ---
