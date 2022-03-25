@@ -4,6 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Text to speech
+tags: jekyll
 image: assets/images/balabolka.jpg
 featured: false
 ---
