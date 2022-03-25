@@ -4,7 +4,7 @@ description: Latest tech issues and tutorials
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-209667013-4'
 include:
   - _pages
 permalink: '/:title/'
