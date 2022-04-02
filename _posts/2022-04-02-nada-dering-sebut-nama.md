@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Text to speech
-tags: Android
+tags: WhatsApp
 image: assets/images/sebut-nama.jpg
 featured: false
 ---
