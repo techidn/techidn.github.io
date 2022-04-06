@@ -11,7 +11,7 @@ featured: false
 
 Perkembangan kecanggihan teknologi di masa sulit seperti pandemi ini membuat berbagai line harus mengerjakan aktivitas secara daring, baik itu kegiatan pelajar, pegawai hingga layanan publik. Sehingga, ada beberapa aplikasi yang dibutuhkan guna menunjang aktivitas tersebut. Salah satunya Google Docs.
 
-Aplikasi Google Docs merupakan sebuah layanan gratis yang dapat membantu Anda untuk memenuhi kebutuhan seputar dokumentasi. Selain hal itu, tentu ada beberapa fitur menarik yang ditawarkan oleh aplikasi Google Docs yaitu adanya fitur [Voice Typing]().
+Aplikasi Google Docs merupakan sebuah layanan gratis yang dapat membantu Anda untuk memenuhi kebutuhan seputar dokumentasi. Selain hal itu, tentu ada beberapa fitur menarik yang ditawarkan oleh aplikasi Google Docs yaitu adanya fitur [Voice Typing](https://www.autobild.co.id/2022/04/cara-mengaktifkan-google-docs-voice.html).
 
 Fitur Voice Typing ini berguna untuk mengetik menggunakan suara, fitur ini juga merupakan fitur unggulan yang dimiliki oleh Google Docs yang akan membantu Anda dalam membuat tulisan dokumen jadi lebih cepat selesai.
 
