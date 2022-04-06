@@ -68,4 +68,4 @@ Teknologi canggih yang dikembangkan dan dipopulerkan oleh team developer Google 
 4. Setelah mengizinkan, Anda pilih bahasa dan langsung gunakan icon speaker berwarna hitam hingga merah tersebut untuk menerima suara Anda untuk dijadikan ketikan.
 5. Selesai, secara otomatis hasil dari suara Anda akan terlihat atau tampak langsung menjadi sebuah tulisan di layar Google Docs tersebut.
 
-Demikian informasi yang dapat dipaparkan secara singkat mengenai bagaimana cara menggunakan fitur unggulan Google Docs yaitu Voice Typing. Cobalah mulai dari sekarang untuk membuat waktu Anda lebih efektif.
+Demikian informasi yang dapat dipaparkan secara singkat mengenai bagaimana cara menggunakan fitur unggulan Google Docs yaitu Voice Typing. Cobalah mulai dari sekarang untuk membuat waktu Anda lebih efektif. Untuk mengetahui fitur voice typing elbih lanjut, kamu juga bisa membaca referensi lainnya di [panduan mengetik dengan suara](https://whitepaper.co.id/cara-mengetik-dengan-suara-di-google-docs/).
