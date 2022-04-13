@@ -27,10 +27,10 @@ Namun, tahukah kamu kalau hasil ubahan dari aplikasi pengubah teks ke audio juga
 
 Bagi pengguna WhatsApp yang tertarik untuk menggunakan ringtone dari SOT, sebaiknya cari tahu terlebih dahulu mengenai kalimat sound of text WA yang sedang hits saat ini. Di bawah ini adalah contoh kata-kata sound of text WA terviral yang bisa dijadikan referensi:
 
-•	Beb, cepat cek pesan dari aku dong.
-•	Sayang, jangan lupa balas pesannya ya.
-•	Ada pesan WhatsApp masuk!
-•	Pak Joko, tolong buka WhatsApp
+- Beb, cepat cek pesan dari aku dong.
+-	Sayang, jangan lupa balas pesannya ya.
+-	Ada pesan WhatsApp masuk!
+-	Pak Joko, tolong buka WhatsApp
 
 
 ## Cara Membuat Sound of Text WA
@@ -45,13 +45,13 @@ Bagi pengguna perangkat ponsel pintar berbasis Android, kamu juga bisa membuat s
 
 Menariknya, **Voiceoftext** memungkinkan pengguna Android untuk melakukan pengaturan suara, termasuk volume suara, kecepatan suara, dan bahkan menambahkan efek suara. Cara membuat sound of text Bahasa Indonesia di ponsel Android melalui situs Voiceoftext:
 
-•	Masuk aplikasi browser.
-•	Salin dan tempel link official voice of text di [https://www.voiceoftext.com/p/sound-of-text-wa.html](https://www.voiceoftext.com/p/sound-of-text-wa.html)
-•	Tulis kata-kata yang ingin dikonversi ke suara di kolom "Text".
-•	Pilih opsi bahasa di "Language and Regions", tap "Indonesian".
-•	Setelah itu, klik "**Convert to Speech**".
-•	Putar suara dengan klik ikon "Play".
-•	Sudah sesuai? Langsung saja klik "Download MP3".
+- Masuk aplikasi browser.
+- Salin dan tempel link official voice of text di [https://www.voiceoftext.com/p/sound-of-text-wa.html](https://www.voiceoftext.com/p/sound-of-text-wa.html)
+- Tulis kata-kata yang ingin dikonversi ke suara di kolom "Text".
+- Pilih opsi bahasa di "Language and Regions", tap "Indonesian".
+- Setelah itu, klik "**Convert to Speech**".
+- Putar suara dengan klik ikon "Play".
+- Sudah sesuai? Langsung saja klik "Download MP3".
 
 ## Bagaimana cara membuat notifikasi Wa suara Google?
 
