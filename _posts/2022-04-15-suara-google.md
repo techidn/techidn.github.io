@@ -55,5 +55,4 @@ Selain menggunakan situs di atas, masih ada lagi situs lain yang menyediakan sua
 
 Itulah cara-cara termudah untuk mengunduh suara google lucu yang dapat Anda terapkan secara langsung guna menciptakan nada dering unik. Pastikan langkah-langkahnya sudah benar ya.
 
-**
-Sumber:** [https://teknosia.netlify.app/posts/text-to-speech](https://teknosia.netlify.app/posts/text-to-speech)
+**Sumber:** [https://teknosia.netlify.app/posts/text-to-speech](https://teknosia.netlify.app/posts/text-to-speech)
