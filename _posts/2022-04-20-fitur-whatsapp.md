@@ -18,7 +18,7 @@ Sampai akhir 2021 lalu, WhatsApp menghadiahkan banyak sekali fitur baru kepada p
 
 ### Bergabung di Panggilan Grup yang Tidak Terjawab 
 
-Panggilan tidak terjawab mungkin adalah hal yang biasa dan sudah wajar ketika berkomunikasi dengan WhatsApp. Tetapi bagaimana bila itu adalah panggilan grup yang penting dan Anda tidak mengetahuinya karena tidak menggunakan fitur [nada dering sebut nama <https://whitepaper.co.id/nada-dering-sound-of-text-sebut-nama/>]. Tentunya ini akan sangat disayangkan dan bisa membuat Anda tertinggal dengan momen penting tersebut.
+Panggilan tidak terjawab mungkin adalah hal yang biasa dan sudah wajar ketika berkomunikasi dengan WhatsApp. Tetapi bagaimana bila itu adalah panggilan grup yang penting dan Anda tidak mengetahuinya karena tidak menggunakan fitur [nada dering sebut nama](https://whitepaper.co.id/nada-dering-sound-of-text-sebut-nama/). Tentunya ini akan sangat disayangkan dan bisa membuat Anda tertinggal dengan momen penting tersebut.
 
 Dengan fitur terupdate dari WhatsApp, Anda bisa tetap bergabung pada panggilan yang tidak sempat Anda jawab tersebut dengan **masuk ke Log Panggilan terakhir** Anda di WhatsApp.
 
