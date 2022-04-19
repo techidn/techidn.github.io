@@ -8,7 +8,7 @@ image: assets/images/fitur-wa.jpg
 featured: true
 ---
 
-Aplikasi perpesanan WhatsApp merupakan aplikasi kesayangan semua masyarakat yang ada di dunia berkat kecanggihan fitur-fiturnya. Dan sampai sekarang pun fitur terbaru WhatsApp terus muncul untuk memberikan pengalaman berkirim pesan terbaik bagi penggunanya. 
+Aplikasi perpesanan [WhatsApp](https://techidn.github.io/tags#WhatsApp) merupakan aplikasi kesayangan semua masyarakat yang ada di dunia berkat kecanggihan fitur-fiturnya. Dan sampai sekarang pun fitur terbaru WhatsApp terus muncul untuk memberikan pengalaman berkirim pesan terbaik bagi penggunanya. 
 
 Sebagai pengguna, Anda tentu menginginkan sebuah aplikasi berkirim pesan yang instan dan memberikan kemudahan terbaik dalam berkomunikasi. Tetapi nyatanya WhatsApp tidak hanya memberikan sarana untuk bertugas pesan teks saja, melainkan gambar, suara, dan video pula. 
 
@@ -51,7 +51,7 @@ Efek animasi hanya terbatas pada emoji hati warna merah tetapi laporan baru oleh
 
 WhatsApp Mengubah desain jendela aplikasi yang terlihat selama panggilan suara grup. Platform ini menambahkan bentuk gelombang suara untuk semua peserta selama panggilan grup. 
 
-Bentuk gelombang suara mirip dengan yang terlihat di catatan suara. Perubahan dalam desain cukup minimal tetapi memberikan tampilan yang segar ke halaman.
+Bentuk gelombang suara mirip dengan yang terlihat di catatan suara. Perubahan dalam desain cukup minimal tetapi memberikan tampilan yang segar ke halaman. Tampilan panggilan suara di WA verssi terbaru ini juga melengkapi fitur [sound of text wa](https://techidn.github.io/soundoftext/) yang sudah banyak digunakan orang baru-baru ini. 
 
 ### Admin Grup dapat Menghapus Pesan yang Dikirim Oleh Anggota di Grup
 
