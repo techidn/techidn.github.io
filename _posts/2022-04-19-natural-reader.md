@@ -24,7 +24,7 @@ Pada fitur ini kamu dapat melakukan pengaturan suara dalam arti suara yang terse
 
 ### 2. Fitur Pengaturan Kecepatan
 
-Selain dapat mengubah teks menjadi suara, tentunya dibutuhkan juga fitur lain yang mendukung hal tersebut seperti adanya fitur mengatur kecepatan. Dengan fitur ini kamu dapat mengatur dengan melakukan pengeditan terhadap kecepatan suara yang kamu butuhkan. 
+Selain dapat mengubah teks menjadi suara, tentunya dibutuhkan juga fitur lain yang mendukung hal tersebut seperti adanya fitur mengatur kecepatan. Dengan fitur ini kamu dapat mengatur dengan melakukan pengeditan terhadap kecepatan suara Google yang kamu butuhkan. 
 
 ### 3. Fitur Input File Baru
 
@@ -32,7 +32,7 @@ Fitur ini dihadirkan dengan berbagai mode. Salah satunya ada fitur OCR yang dipe
 
 ### 4. Fitur Ubah Teks ke Suara
 
-Fitur ini dapat mengubah teks menjadi suara yang terdengar alami dan profesional. 
+Fitur ini dapat mengubah teks menjadi suara robot yang terdengar alami dan profesional. Lihat juga tulisan kami mengenai [suara Google](/suara-google/) untuk mengetahui teknologi text to speech dibalik suara natural buatan ini.
 
 ### 5. Fitur OCR dengan Dokumen Cetak
 
