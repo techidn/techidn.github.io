@@ -10,7 +10,7 @@ featured: false
 
 Saat menonton video di Youtube mungkin kamu pernah atau sering melihat video yang voice overnya kayak Google Translate text to voice. Model video seperti ini cukup viral dan banyak digunakan karena menghemat biaya untuk bayar jasa orang dalam membacakan teksnya.
 
-Voice over model seperti itu bisa dibuat di sound of text dan nantinya dibuat seperti narasi. Ada beberapa cara buat suara Google untuk narasi video baik untuk keperluan konten Youtube, Facebook, dan yang lainnya.
+Voice over model seperti itu bisa dibuat di sound of text dan nantinya dibuat seperti narasi. Ada beberapa [cara buat suara Google](/suara-google/) untuk narasi video baik untuk keperluan konten Youtube, Facebook, dan yang lainnya.
 
 Dalam proses pembuatannya, kamu bisa memanfaatkan beberapa situs untuk membuat narasinya. Setelah itu, kamu bisa menambahkan suara tersebut pada software untuk dimasukkan dalam video.
 
