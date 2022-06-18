@@ -36,7 +36,46 @@
     googletag.enableServices();
   });
 </script>
-
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22754627402/Lrec2', [336, 280], 'div-gpt-ad-1654847834076-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22754627402/Lrec3', [336, 280], 'div-gpt-ad-1654847985408-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22754627402/Halfpage', [300, 600], 'div-gpt-ad-1654096855873-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22754627402/Anchor.Desk', [728, 90], 'div-gpt-ad-1654352496011-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22754627402/Anchor_wide', [320, 50], 'div-gpt-ad-1654847307473-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -73,6 +112,18 @@
 @media screen and (min-width: 700px) {
 .ad_mo, .top_mobile, .bot_mobile {display: none;}
 }
+        /* Sticky Ad */
+.stickAd{position:fixed;bottom:0;left:0;right:0;width:100%;min-height:70px;max-height:200px;padding:5px 5px;box-shadow:0 -6px 18px 0 rgba(9,32,76,.1);-webkit-transition:all .1s ease-in;transition:all .1s ease-in;display:flex;align-items:center;justify-content:center;background-color:#fefefe;z-index:950}
+.stickAdclose{width:30px;height:30px;display:flex;align-items:center;justify-content:center;border-radius:12px 0 0;position:absolute;right:5px;top:-30px;background-color:inherit}
+.stickAdcontent{flex-grow:1;overflow:hidden;display:block;position:relative}
+.stickAdin:checked ~ .stickAd{padding:0;min-height:0}
+.stickAdin:checked ~ .stickAd .stickAdcontent{display:none}
+.darkMode .stickAd{background-color:var(--dark-bg-alt)}.stickAdclose {
+  background-color: #eee;
+  animation: 6s fadeIn;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+} @keyframes fadeIn { 99% { visibility: hidden; } 100% { visibility: visible; }}
     </style>
 
 
@@ -230,6 +281,35 @@
                     </div>
                 </div>
             </div>
+
+            <div class='stickAd bot_desktop'>
+	<label class='stickAdclose' for='stickAdin' onclick='this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode); return false;'>
+&#215;
+	</label>
+	<div class='stickAdcontent'>
+<div align='center'><!-- /22754627402/Anchor.Desk -->
+<div id='div-gpt-ad-1654352496011-0' style='min-width: 728px; min-height: 90px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654352496011-0'); });
+  </script>
+</div></div>
+	</div>
+</div>
+            
+            <div class='stickAd bot_mobile'>
+	<label class='stickAdclose' for='stickAdin' onclick='this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode); return false;'>
+&#215;
+	</label>
+	<div class='stickAdcontent'>
+<div align='center'><!-- /22754627402/Anchor_wide -->
+<div id='div-gpt-ad-1654847307473-0' style='min-width: 320px; min-height: 50px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654847307473-0'); });
+  </script>
+</div></div>
+	</div>
+</div>
+            
         </footer>
         <!-- End Footer
 ================================================== -->
