@@ -16,7 +16,7 @@ Namun, hal ini bisa diatasi dengan mudah menggunakan FR Legends Mod. Pengguna bi
 
 ## Fitur FR Mod APK
 
-Versi mod dari sebuah game memang terkenal dengan beragam fiturnya yang menarik. Berikut ini beberapa fitur yang bisa kamu temukan dalam game FR Legends Mod dilansir dari situs gaming [GGAvenue.com](https//www.ggavenue.com):
+Versi mod dari sebuah game memang terkenal dengan beragam fiturnya yang menarik. Berikut ini beberapa fitur yang bisa kamu temukan dalam game FR Legends Mod dilansir dari situs gaming [GGAvenue.com](https://www.ggavenue.com/):
 
 ### 1. APK Gratis
 
