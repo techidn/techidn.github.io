@@ -5,7 +5,7 @@ author: techidn
 categories: Tutorial
 tags: WhatsApp
 image: assets/images/popularup.jpg
-featured: true
+featured: false
 ---
 
 PopularUp yang berbasis di popularup.com merupakan situs penyedia jasa layanan peningkat engagement di sosial media. Situs ini menyediakan banyak sekali layanan jasa media sosial seperti Instagram, Twitter, Facebook, ,TikTok, Youtube dan juga Spotify. Hanya saja memang ada biaya jasa yang harus dikeluarkan untuk mendapatkan follower atau subscribernya.
