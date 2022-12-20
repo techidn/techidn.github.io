@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /oldlocation/
+permalink: /balabolka/
 redirect_to:  https://sebuahutas.com
 ---
