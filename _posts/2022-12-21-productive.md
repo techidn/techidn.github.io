@@ -8,12 +8,12 @@ pages:
  - layout: thirds
    top: <h1>1. Find your who</h1>
    middle: "<p>Once you know you who you are, you will know what to do.</p>"
-   background: assets/images/01/A.jpg
+   background: ../assets/images/01/A.jpg
    backgroundblur: true   
  - layout: thirds
    top: <h1>2. Decide not to drift</h1>
    middle: "<p>Don’t squander your life by living in the shadow of comfort.</p>"
-   background: assets/images/01/B.jpg
+   background: ../assets/images/01/B.jpg
    backgroundblur: true  
  - layout: thirds
    top: <h1>3. Set habits, not goals</h1>
@@ -27,7 +27,7 @@ pages:
    backgroundblur: true  
  - layout: thirds
    top: <h1>5. Seek feedback, ignore criticism</h1>
-   middle: "<p>Professionals make things every day and then they share them.</p>"
+   bottom: "<p>Professionals make things every day and then they share them.</p>"
    background: assets/images/01/E.jpg
    backgroundblur: true  
  - layout: thirds
