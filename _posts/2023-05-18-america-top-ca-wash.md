@@ -5,7 +5,7 @@ author: techidn
 categories: 
 - Business
 image: assets/images/car_wash_services.jpg
-featured: true
+featured: false
 ---
 
 ## I. Introduction
