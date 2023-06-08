@@ -3,7 +3,7 @@ title: California's Age of Consent - Know the Legal Boundaries
 layout: post
 author: techidn
 categories: 
-- Cities
+- Law
 image: assets/images/what's the age of consent in california.jpg
 featured: false
 ---
