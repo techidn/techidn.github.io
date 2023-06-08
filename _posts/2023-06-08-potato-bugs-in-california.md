@@ -1,5 +1,5 @@
 ---
-title: Walmart's Rise - The Untold Story Behind America's Retail Giant
+title: Invasion of the Potato Bugs - California's Battle for Crop Survival
 layout: post
 author: techidn
 categories: 
