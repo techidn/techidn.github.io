@@ -1,5 +1,5 @@
 ---
-title: Unsafe Havens: Inside Texas' Most Dangerous City
+title: Unsafe Havens - Inside Texas' Most Dangerous City
 layout: post
 author: techidn
 categories: 
