@@ -1,5 +1,5 @@
 ---
-title: Look Sharp, Feel Confident - Embrace the Nearest Barbershop!
+title: Inside Detroit's Thriving Tech Industry
 layout: post
 author: techidn
 categories: 
