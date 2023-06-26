@@ -3,7 +3,7 @@ title: How to Use Google Text-to-Speech using Sound of Text
 layout: post
 author: techidn
 categories: 
-- Sound of Text
+- Text to Speech
 image: assets/images/How to use google text to speech using sound of text.jpg
 featured: false
 ---
