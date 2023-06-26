@@ -26,7 +26,7 @@ The first step is to sign up and create an account on soundoftext.co.id. This pr
 
 ## Using Google Text-to-Speech with soundoftext.co.id
 Here's a step-by-step guide on how to use Google Text-to-Speech with soundoftext.co.id:
-1.	Visit soundoftext.co.id: Open your web browser and go to soundoftext.co.id.
+1.	Visit soundoftext.co.id: Open your web browser and go to [soundoftext.co.id](https://www.soundoftext.co.id).
 2.	Sign up or log in: If you're new to soundoftext.co.id, sign up for an account by providing your name, email address, and password. If you already have an account, simply log in using your credentials.
 3.	Enter the text: Once you're logged in, you'll see a text input field on the soundoftext.co.id platform. Enter the text you want to convert into speech. You can type or paste the text directly into the field.
 4.	Format the text (optional): If you want to add formatting to the text, such as line breaks, emphasis, or pauses, you can do so using specific syntax. Consult the soundoftext.co.id documentation for the appropriate formatting options.
