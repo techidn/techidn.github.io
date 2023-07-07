@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Apps
-image: assets/images/elon.png
+image: assets/images/elon.jpg
 featured: false
 ---
 
