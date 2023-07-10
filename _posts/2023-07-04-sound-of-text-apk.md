@@ -8,7 +8,7 @@ image: assets/images/sound of text apk.jpg
 featured: false
 ---
 
-Sound of Text Apk is a free app that allows you to create audio files from text. It uses the text-to-speech engine from Google Translate to generate audio in a variety of languages. This article will provide you with a step-by-step guide on how to use Sound of Text Apk, as well as some tips for getting the most out of the app.
+Sound of Text Apk is a free app that allows you to create audio files from text. It uses the text-to-speech engine from Google Translate to generate audio in a variety of languages even `Chinese test to speech <https://karinov.co.id/chinese-text-to-speech/>`_. This article will provide you with a step-by-step guide on how to use Sound of Text Apk, as well as some tips for getting the most out of the app.
 
 ## Benefits
 Sound of Text Apk is a versatile tool that can be used for a variety of purposes, including:
