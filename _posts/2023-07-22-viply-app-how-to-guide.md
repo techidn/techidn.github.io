@@ -39,6 +39,7 @@ Pros:
 1.	Quick and convenient ticket purchase process
 2.	Mobile entry eliminates the need for physical tickets
 3.	Timely event reminders to keep you updated
+
 Cons:
 1.	Convenience fees may be an added cost
 2.	App availability may be limited in some regions
