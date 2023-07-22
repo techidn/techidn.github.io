@@ -1,9 +1,9 @@
 ---
-title: Top 5 Famous Car Accident in the History
+title: Viply App - A Complete Guide
 layout: post
 author: techidn
 categories: 
-- Accident
+- Apps
 image: assets/images/Viply App.jpg
 featured: false
 ---
