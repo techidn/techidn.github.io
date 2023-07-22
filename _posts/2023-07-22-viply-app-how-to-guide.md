@@ -14,10 +14,10 @@ In today's digital age, technology has made our lives more convenient than ever 
 The Viply app is a user-friendly platform that allows users to purchase tickets for various events, such as concerts, festivals, sporting events, and more. It aims to eliminate long lines and waiting times at ticket counters by providing a quick and seamless ticketing process.
 
 ## Viply App Features
-•	Easy Ticket Purchase: The app offers a hassle-free ticket purchase experience, enabling users to secure their spot at events with just a few taps.
-•	Mobile Entry: Once you've purchased your tickets, you can easily access them via the app. No need to print physical tickets; simply show the QR code on your phone for entry.
-•	Event Information: The app provides comprehensive details about events, including dates, times, locations, and artist lineups.
-•	Event Reminders: Viply sends timely reminders about upcoming events to ensure you never miss out on your favorite shows.
+1.	Easy Ticket Purchase: The app offers a hassle-free ticket purchase experience, enabling users to secure their spot at events with just a few taps.
+2.	Mobile Entry: Once you've purchased your tickets, you can easily access them via the app. No need to print physical tickets; simply show the QR code on your phone for entry.
+3.	Event Information: The app provides comprehensive details about events, including dates, times, locations, and artist lineups.
+4.	Event Reminders: Viply sends timely reminders about upcoming events to ensure you never miss out on your favorite shows.
 
 ## How to Use the Viply App
 1.	Download the App: Start by downloading the Viply app from the App Store (for iOS) or Google Play Store (for Android).
@@ -29,19 +29,19 @@ The Viply app is a user-friendly platform that allows users to purchase tickets 
 7.	Event Entry: On the day of the event, open the Viply app and navigate to your tickets. Show the QR code at the venue's entry point to gain access.
 
 ## Viply App FAQ
-•	Is the Viply app available in my area?
+1.	Is the Viply app available in my area?
 The Viply app is continuously expanding its coverage. Check the app for the latest list of supported areas.
-•	Are there any additional fees when purchasing tickets through Viply?
+2.	Are there any additional fees when purchasing tickets through Viply?
 Viply charges a convenience fee for using its services, which is typically added to the ticket price during checkout.
 
 ## Viply App Pros and Cons
 Pros:
-•	Quick and convenient ticket purchase process
-•	Mobile entry eliminates the need for physical tickets
-•	Timely event reminders to keep you updated
+1.	Quick and convenient ticket purchase process
+2.	Mobile entry eliminates the need for physical tickets
+3.	Timely event reminders to keep you updated
 Cons:
-•	Convenience fees may be an added cost
-•	App availability may be limited in some regions
+1.	Convenience fees may be an added cost
+2.	App availability may be limited in some regions
 
 ## Conclusion
 The Viply app is a game-changer for event-goers, offering a seamless ticketing experience and eliminating the hassle of waiting in long lines. With its user-friendly interface and comprehensive event information, the app has become a favorite among those seeking a stress-free way to attend events. So, next time you plan to attend a concert, festival, or sports event, be sure to check out the Viply app for a hassle-free and enjoyable experience. Happy event-going!
