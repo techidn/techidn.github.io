@@ -30,8 +30,11 @@ The Viply app is a user-friendly platform that allows users to purchase tickets 
 
 ## Viply App FAQ
 1.	Is the Viply app available in my area?
+   
 The Viply app is continuously expanding its coverage. Check the app for the latest list of supported areas.
+
 2.	Are there any additional fees when purchasing tickets through Viply?
+
 Viply charges a convenience fee for using its services, which is typically added to the ticket price during checkout.
 
 ## Viply App Pros and Cons
