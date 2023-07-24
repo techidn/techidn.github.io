@@ -8,7 +8,7 @@ image: assets/images/Viply App.jpg
 featured: false
 ---
 
-In today's digital age, technology has made our lives more convenient than ever before. One such convenience is the Viply app, a powerful tool designed to streamline the process of purchasing tickets and gaining entry to events. With the help of [Teknotuf](https://teknotuf.com/my/), in this article we will provide a comprehensive guide on how to use the Viply app to its fullest potential.
+In today's digital age, technology has made our lives more convenient than ever before. One such convenience is the Viply app, a powerful tool designed to streamline the process of purchasing tickets and gaining entry to events. With the help of [Teknotuf](https://www.mayniaga.com/), in this article we will provide a comprehensive guide on how to use the Viply app to its fullest potential.
 
 ## Viply App Review
 The Viply app is a user-friendly platform that allows users to purchase tickets for various events, such as concerts, festivals, sporting events, and more. It aims to eliminate long lines and waiting times at ticket counters by providing a quick and seamless ticketing process.
