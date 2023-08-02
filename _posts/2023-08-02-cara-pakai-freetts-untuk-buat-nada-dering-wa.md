@@ -1,6 +1,6 @@
 ---
 title: Cara Pakai FreeTTS untuk Membuat Nada Dering WhatsApp
-layout: ampstory
+layout: post
 author: techidn
 image: assets/images/Cara pakai freetts untuk buat nada dering wa.jpg
 featured: false
