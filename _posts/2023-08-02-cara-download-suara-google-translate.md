@@ -2,6 +2,8 @@
 title: Cara Download Suara Google Translate
 layout: post
 author: techidn
+tags:
+- Tutorial
 image: assets/images/Cara download suara google translate.jpg
 featured: false
 ---
