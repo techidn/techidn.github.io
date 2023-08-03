@@ -2,6 +2,8 @@
 title: Cara Membuat Sound of Text Upin Ipin di WhatsApp
 layout: post
 author: techidn
+tags:
+- Tutorial
 image: assets/images/Cara sound of text upin ipin di wa.jpg
 featured: false
 ---
