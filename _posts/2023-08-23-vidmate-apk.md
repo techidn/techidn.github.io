@@ -10,8 +10,6 @@ featured: false
 
 # VidMate APK: A Comprehensive Overview
 
-## What is VidMate APK?
-
 VidMate APK is a free Android app that allows users to download [scene videos](https://pyscenedetect.readthedocs.io/) and music from a variety of websites, including YouTube, Facebook, Instagram, Dailymotion, and Vimeo. It also boasts features for streaming live TV and viewing movies.
 
 ## Features of VidMate APK
