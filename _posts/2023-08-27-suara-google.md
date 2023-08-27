@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Text to speech
-image: assets/images/uberduck.jpg
+image: assets/images/cover.jpg
 featured: false
 ---
 
