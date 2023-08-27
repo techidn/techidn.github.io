@@ -44,7 +44,7 @@ Supaya bisa mengunduh suara lucu dari google tak hanya dapat berupa suara orang 
 
 ### Mendownload suara yang terdengar lucu lewat situs Uberduck.id
 
-Selain menggunakan situs di atas, masih ada lagi situs lain yang menyediakan suara lucu untuk Anda jadikan sebagai nada dering ataupun [suara Google untuk kirim pesan wa](https://karinov.co.id/download-suara-google-translate/). Kali ini pengguna dapat memanfaatkan situs yang bernama Uberduck untuk mendapatkan suara lucu dan menarik untuk dijadikan nada dering adanya notifikasi yang masuk. Cara menggunakannya sendiri terbilang mudah, Anda cukup mengikuti cara-cara di bawah ini:
+Selain menggunakan situs di atas, masih ada lagi situs lain yang menyediakan suara lucu untuk Anda jadikan sebagai nada dering ataupun untuk [download suara Google di wa](https://karinov.co.id/download-suara-google-translate/). Kali ini pengguna dapat memanfaatkan situs yang bernama Uberduck untuk mendapatkan suara lucu dan menarik untuk dijadikan nada dering adanya notifikasi yang masuk. Cara menggunakannya sendiri terbilang mudah, Anda cukup mengikuti cara-cara di bawah ini:
 
 1. Pertama-tama silahkan Anda mengunjungi situs Uberduck di halaman https://uberduck.ai.
 2. Setelah situs berhasil terbuka, tekan tombol sign in lalu pilihlah login dengan menggunakan akun Google yang sudah Anda punya.
