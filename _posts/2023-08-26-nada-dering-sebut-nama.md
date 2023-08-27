@@ -21,7 +21,7 @@ Di internet sudah tersedia tools supaya Anda bisa membuat nada dering yang menye
 
 Di bawah ini adalah cara-cara yang harus Anda lakukan agar bisa mendownload nada dering nama kontak:
 
-1. Pertama-tama silahkan buka situs di halaman https://www.voiceoftext.com.
+1. Pertama-tama silahkan buka situs di halaman [sound of text wa](https://www.voiceoftext.com/p/sound-of-text-wa.html).
 2. Setelah itu di dalam menu voice, silahkan memilih bahasa yang ingin dihasilkan. Untuk contoh, Anda dapat memilih opsi bahasa Indonesia.
 3. Berikutnya ketikkan teks nada daring yang Anda punya serta cantumkan juga nama kontak yang hendak dipanggil.
 4. Jika sudah tekan tombol bertuliskan convert to voice.
