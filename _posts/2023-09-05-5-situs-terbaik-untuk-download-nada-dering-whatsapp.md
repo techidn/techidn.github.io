@@ -4,7 +4,7 @@ layout: post
 author: techidn
 tags:
 - Tutorial
-image: assets/images/cara pasang nada dering wa suara google.png
+image: assets/images/5 situs terbaik untuk download nada dering whatsapp.jpg
 featured: false
 ---
 
