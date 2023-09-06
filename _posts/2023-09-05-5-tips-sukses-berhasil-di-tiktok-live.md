@@ -3,7 +3,7 @@ title: 5 Tips Sukses di TikTok Live
 layout: post
 author: techidn
 tags:
-- Tutorial
+- Tips
 image: assets/images/5 tips sukses berhasil di tiktok live.jpg
 featured: false
 ---
