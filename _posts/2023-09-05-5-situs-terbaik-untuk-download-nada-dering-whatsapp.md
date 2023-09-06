@@ -3,7 +3,7 @@ title: 5 Situs Terbaik untuk Download Nada Dering WhatsApp
 layout: post
 author: techidn
 tags:
-- Tutorial
+- Tips
 image: assets/images/5 situs terbaik untuk download nada dering whatsapp.jpg
 featured: false
 ---
