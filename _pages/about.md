@@ -5,14 +5,10 @@ permalink: "/about"
 comments: true
 ---
 
-Halo teman-teman selamat datang di blog Tech IDN. Alangkah lebih baiknya untuk kalian lebih mengenal dulu mengenai blog ini.
+Selamat datang di TechIDN, sumber terpercaya Anda untuk semua hal yang berkaitan dengan tips dan trik teknologi. Didirikan pada 2020, TechIDN telah berdedikasi untuk membantu pembaca memahami dan memaksimalkan teknologi paling populer hari ini. Dengan teknologi yang terus-menerus berubah dan berkembang, kami memahami betapa pentingnya memastikan Anda tetap up-to-date dengan semua fitur dan platform berbasis teknologi terbaru.
 
-Blog Tech IDN adalah blog pribadi yang dikembangkan oleh mas Satria. Blog ini dibuat bertujuan untuk melatih skill content writer saya serta kualitas optimasi seo saya.
+Apakah Anda memiliki pertanyaan, saran, atau feedback? Kami selalu senang mendengar dari pembaca kami! Silakan hubungi kami di team@msi.one atau kunjungi halaman Kontak Kami untuk informasi lebih lanjut.
 
-Semua konten yang ada di website saya murni tulisan saya sendiri, dan apabila terdapat kontent di website saya yang menyinggung atau terindikasi adanya plagiarism itu murni karena kesamaan bukan peniruan.
+Terima kasih telah memilih TechIDN sebagai sumber informasi teknologi Anda.
 
-Jadi mungkin cukup sekian perkenalan dari owner website Tech IDN, apabila anda berkenan menghubungi saya bisa melalui halaman kontak.
-
-Salam hormat
-
-TechIDN.github.io
+[Karinov](https://karinov.co.id/)&nbsp; /&nbsp; [Sound of Text](https://www.voiceoftext.com/p/sound-of-text-wa.html)&nbsp; /&nbsp; [Sebuahutas](https://www.sebuahutas.com/)&nbsp; /&nbsp; [Teknotuf](https://www.teknotuf.com/)
