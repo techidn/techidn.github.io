@@ -1,5 +1,5 @@
 ---
-title: Daftar Lagu yang VIral di TikTok Global dan Indonesia
+title: Daftar Lagu yang Viral di TikTok Global dan Indonesia
 layout: post
 author: techidn
 tags:
