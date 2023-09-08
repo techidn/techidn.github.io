@@ -1,50 +1,55 @@
 ---
-title: 5 Tips Sukses di TikTok Live
+title: Daftar Lagu yang VIral di TikTok Global dan Indonesia
 layout: post
 author: techidn
 tags:
 - Tips
-image: assets/images/5 tips sukses berhasil di tiktok live.jpg
+image: assets/images/tiktok_sound.jpg
 featured: false
 ---
 
-TikTok, platform media sosial yang berfokus pada video pendek, telah menghadirkan fitur menarik yang disebut "TikTok Live." Ini adalah cara yang fantastis untuk berinteraksi secara langsung dengan penonton Anda, membangun komunitas, dan bahkan menghasilkan uang. Dalam artikel ini, kita akan membahas apa itu TikTok Live, kriteria kesuksesan, dan memberikan lima tips untuk sukses di sana.
+TikTok, sebagai salah satu platform media sosial terpopuler di dunia, telah menjadi titik awal bagi banyak tren musik. Lagu-lagu tertentu memicu tantangan, tarian, atau meme yang menjadi viral di platform ini. Namun, perlu diperhatikan bahwa lagu yang populer di TikTok dapat berubah dengan cepat seiring dengan munculnya tren baru.
 
-## Pengertian TikTok Live
-TikTok Live adalah fitur streaming langsung yang memungkinkan pengguna TikTok untuk berbagi momen secara real-time dengan penonton mereka. Ini bisa digunakan untuk berbagai tujuan, termasuk membagikan kehidupan sehari-hari, berbicara tentang hobi atau minat, melakukan pertunjukan musik, atau bahkan mengadakan kuis. Penonton dapat mengirim komentar, memberi hadiah virtual, dan berinteraksi dengan penyiar secara langsung melalui komentar.
+## Lagu Populer TikTok Global
 
-## Kriteria Kesuksesan TikTok Live
-Kesuksesan di TikTok Live dapat diukur dengan beberapa kriteria, seperti:
-1.	**Jumlah Penonton:** Semakin banyak penonton yang mengikuti siaran langsung Anda, semakin besar pengaruh Anda.
-2.	**Engagement (Keterlibatan):** Tingkat interaksi dengan penonton dalam bentuk komentar, like, dan hadiah virtual adalah indikator utama kesuksesan.
-3.	**Kualitas Konten:** Konten yang menarik, informatif, atau menghibur akan menarik lebih banyak penonton.
-4.	**Konsistensi:** Menjaga jadwal siaran langsung yang konsisten akan membantu membangun audiens setia.
-5.	**Monetisasi:** Jika tujuan Anda adalah menghasilkan uang, perhatikan berapa banyak hadiah virtual yang Anda terima dan jumlah penonton yang memberikan dukungan finansial.
+Berikut ini adalah daftar beberapa lagu yang pernah populer di TikTok:
 
-## 5 Tips Sukses di TikTok Live
-1.	**Buat Jadwal Siaran Langsung Tetap:** Umumkan jadwal siaran langsung Anda secara teratur sehingga penonton dapat mengantisipasinya.
-2.	**Buat Konten Yang Menarik:** Identifikasi minat dan keinginan audiens Anda, dan buat konten yang relevan dan menarik bagi mereka.
-3.	**Interaksi Aktif dengan Penonton:** Respon komentar dan pertanyaan penonton secara langsung untuk membangun koneksi yang kuat.
-4.	**Promosikan Siaran Anda:** Bagikan jadwal siaran langsung Anda di platform lain untuk menjangkau audiens yang lebih luas.
-5.	**Gunakan Efek dan Fitur Kreatif:** TikTok memiliki beragam efek dan fitur yang dapat membuat siaran Anda lebih menarik, seperti filter wajah, efek suara, dan polling.
+1. "Blinding Lights" - The Weeknd
+2. "Savage Love" - Jawsh 685 & Jason Derulo
+3. "WAP" - Cardi B ft. Megan Thee Stallion
+4. "Renegade"
+5. "Say So" - Doja Cat
+6. "Supalonely" - BENEE ft. Gus Dapperton
+7. "Lottery" - K CAMP
+8. "Stunnin'" - Curtis Waters ft. Harm Franklin
+9. "Wipe It Down" - BMW KENNY
+10. "Tap In" - Saweetie
+11. "Fyp" - Yoshi Flower
+12. "Opaul" - Freddie Dredd
+13. "Vibe (If I Back It Up)" - Cookiee Kawaii
+14. "M to the B" - Millie B
+15. "Bored in the House" - Tyga & Curtis Roach
+16. "Banana (feat. Shaggy)" - Conkarah
+17. "Woah" - KRYPTO9095 ft. D3Mstreet
+18. "Then Leave" - BeatKing & QUEENDOME COME
 
-## Cara Membuat Konten yang Menarik untuk TikTok Live
+Daftar di atas hanya mencakup sebagian kecil dari lagu-lagu yang pernah viral di TikTok. Ada banyak lagu lain yang muncul dan menjadi hit di platform ini dari waktu ke waktu, tergantung pada tren dan tantangan yang sedang berlangsung. Untuk mendapatkan informasi paling up-to-date tentang lagu-lagu populer di TikTok, Anda mungkin ingin mengunjungi platform tersebut atau situs web analitik yang terkait.
 
-•	Fokus pada topik yang Anda kuasai atau yang Anda minati.
+## Lagu Populer TikTok Indonesia
 
-•	Gunakan visual yang menarik dengan pencahayaan yang baik.
+TikTok di Indonesia, seperti di banyak negara lain, memiliki tren musiknya sendiri yang mempengaruhi dan dipengaruhi oleh budaya pop lokal. Berikut adalah beberapa lagu yang populer di TikTok Indonesia:
 
-•	Gunakan bahasa yang sesuai dengan audiens Anda.
+1. "Tari Ubur-Ubur" - ImeyMey
+2. "Dj Terlena" - Ji Ro Lu Pat
+3. "Tarik Sis Semongko" - Via Vallen
+4. "Pergi Hilang dan Lupakan" - Remember Of Today (sering dicover oleh berbagai pengguna TikTok)
+5. "Lathi" - Weird Genius ft. Sara Fajira
+6. "Berbeza Kasta" - Thomas Arya
+7. "Love Story" - Taylor Swift (versi remix banyak digunakan)
+8. "C'est La Vie" - Khaled (versi remix TikTok)
+9. "Bercandyaaa" - GG
+10. "Dj TikTok Kamu Adalah Inspirasiku"
 
-•	Bawa elemen kejutan atau tantangan dalam siaran Anda.
+Daftar di atas tentunya bisa berubah seiring waktu, mengingat TikTok adalah platform yang sangat dinamis dengan tren baru yang muncul setiap saat. Lagu-lagu ini hanya beberapa dari banyak lagu yang pernah populer di TikTok Indonesia.
 
-## Cara Berinteraksi dengan Penonton TikTok Live
-
-•	Bacakan komentar penonton dan tanggapi pertanyaan atau sapaan mereka.
-
-•	Undang penonton untuk berpartisipasi dalam siaran, seperti mengajukan pertanyaan atau mengikuti tantangan tertentu.
-
-•	Berikan penghargaan kepada penonton yang aktif berinteraksi dengan hadiah virtual atau penghargaan lainnya.
-
-## Kesimpulan
-TikTok Live adalah peluang besar untuk berinteraksi secara langsung dengan penonton Anda, membangun komunitas, dan bahkan menghasilkan uang. Dengan mengikuti tips dan kriteria kesuksesan yang telah dijelaskan, Anda dapat membuat pengalaman TikTok Live yang menarik dan bermanfaat bagi diri Anda dan penonton Anda. Selain tips di atas, Anda juga dapat mempelajari tips & trik lain untuk menambah kreativitas TikTok Anda dengan mempelajari tips cara download suara TikTok untuk jadi nada dering Whatsapp di [Emzeth](https://www.emzeth.com/cara-download-sound-tiktok-ke-wa-untuk-nada-pesan-atau-panggilan/). Selamat bersiaran!
+Referensi: https://www.sebuahutas.com/cara-download-nada-dering-dari-tiktok-ke-wa/
