@@ -8,7 +8,7 @@ image: assets/images/Cover-sound-of-text-melayu.jpg
 featured: true
 ---
 
-Dalam era digital ini, kemampuan untuk membuat teks menjadi suara menjadi semakin penting. Salah satu platform yang menyediakan layanan ini adalah Sound of Text. Artikel ini akan menjelaskan cara praktis membuat [Sound Text](soundtext.org) dalam Bahasa Melayu dan memasangnya ke aplikasi WhatsApp.
+Dalam era digital ini, kemampuan untuk membuat teks menjadi suara menjadi semakin penting. Salah satu platform yang menyediakan layanan ini adalah Sound of Text. Artikel ini akan menjelaskan cara praktis membuat [Sound Text](https://soundtext.org) dalam Bahasa Melayu dan memasangnya ke aplikasi WhatsApp.
 
 ## Sound of Text Bahasa Melayu
 Sound of Text adalah platform online yang memungkinkan pengguna mengubah teks menjadi suara. Ini sangat berguna untuk mereka yang ingin mendengarkan teks atau menyimpannya sebagai file audio. Dalam konteks Bahasa Melayu, Sound of Text memungkinkan pengguna untuk mengonversi teks menjadi suara dalam dialek dan aksen yang sesuai.
