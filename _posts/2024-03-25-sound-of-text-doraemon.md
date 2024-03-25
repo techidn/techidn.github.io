@@ -30,7 +30,7 @@ Mari kita lihat langkah-langkah mudah untuk membuat suara Doraemon Anda sendiri 
 5.	Setelah suara dibuat, Anda dapat mendengarkan pratinjau untuk mengetahui apakah suara tersebut terdengar sempurna bagi Anda.
 Jika Anda puas dengan hasilnya, cukup unduh file suara dalam format yang sesuai dengan preferensi Anda.
 
-**Baca:** [https://www.kicaumania.or.id/cara-sound-of-text-suara-anak-kecil-korea-untuk-nada-dering-wa/](https://www.kicaumania.or.id/cara-sound-of-text-suara-anak-kecil-korea-untuk-nada-dering-wa/)
+**Baca:** [https://karinov.co.id/pengertian-tiktok-kumpulan-arti-istilah-populer-di-tiktok/](https://karinov.co.id/pengertian-tiktok-kumpulan-arti-istilah-populer-di-tiktok/)
 
 ## Cara Mengatur Nada Dering WhatsApp dengan Sound of Text Doraemon
 Sekarang setelah Anda membuat Suara Teks Doraemon, sekarang saatnya menggunakannya sebagai nada dering WhatsApp. Inilah yang perlu Anda lakukan:
