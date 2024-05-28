@@ -1,5 +1,5 @@
 ---
-title: Menggunakan Python untuk Pengembangan Web: Pengenalan pada Kerangka Kerja Flask
+title: Menggunakan Python untuk Pengembangan Web-Pengenalan pada Kerangka Kerja Flask
 layout: post
 author: techidn
 tags:
